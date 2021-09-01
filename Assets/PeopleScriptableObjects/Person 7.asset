@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9f18a604faef6946ab83d1b0ae6c255, type: 3}
   m_Name: Person 7
   m_EditorClassIdentifier: 
-  name: 
-  EmailAddress: 
-  address: 
-  image: {fileID: 0}
+  name: Demon
+  EmailAddress: qrs@gmail.com
+  address: kashmir
+  image: {fileID: 2800000, guid: 71880fd6182584afea76fdc56e3ffbaa, type: 3}

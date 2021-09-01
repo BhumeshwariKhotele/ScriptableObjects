@@ -21,6 +21,6 @@ public class BussinessCardPrefab : MonoBehaviour
         setBussinessInfo.personNameText.text = bussinessCard.Name;
         setBussinessInfo.emailAddressText.text = bussinessCard.Email;
         setBussinessInfo.addressText.text = bussinessCard.Address;
-        //setBussinessInfo.CardIcon.GetComponent<RawImage>().texture= bussinessCard.Image;
+        setBussinessInfo.CardIcon.GetComponent<RawImage>().texture= bussinessCard.Image;
       }
 }

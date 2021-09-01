@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9f18a604faef6946ab83d1b0ae6c255, type: 3}
   m_Name: Person 8
   m_EditorClassIdentifier: 
-  name: 
-  EmailAddress: 
-  address: 
-  image: {fileID: 0}
+  name: Regina
+  EmailAddress: stuv@gmail.com
+  address: nainital
+  image: {fileID: 2800000, guid: b5c5c42a608933c45945b40b658b6a7b, type: 3}

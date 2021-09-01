@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Person 2
   m_EditorClassIdentifier: 
   name: Nina
-  EmailAddress: xyz
+  EmailAddress: xyz@gmail.com
   address: Mumbai
   image: {fileID: 2800000, guid: 4f20b215604934d24bc3f90fc52f1095, type: 3}
