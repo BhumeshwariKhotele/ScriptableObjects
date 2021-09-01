@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class SetBussinessInfo : MonoBehaviour
 {
-    public GameObject BussinessCardInfoPanel;
+    public GameObject BussinessCardInfoPanel,BGpanel;
     public GameObject CardIcon;
     public Text personNameText;
     public Text emailAddressText;
@@ -15,11 +15,13 @@ public class SetBussinessInfo : MonoBehaviour
 
     public void OpenBussinessInfoPanel()
     {
+        BGpanel.SetActive(true);
        BussinessCardInfoPanel.SetActive(true);
     }
 
     public void ClosBussinessInfoPanel()
     {
+        BGpanel.SetActive(false);
         BussinessCardInfoPanel.SetActive(false);
     }
 }
